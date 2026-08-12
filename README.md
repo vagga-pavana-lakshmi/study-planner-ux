@@ -60,3 +60,7 @@ The goal is to create a simple and easy-to-use study planning experience.
 - [User Persona & User Flow](User_Persona_and_User_Flow.pdf)
 - [Low-Fidelity Wireframes](Low_Fidelity_Wireframes.pdf)
 - [Design Thinking Process](Design_Thinking_Process.pdf)
+
+- ## Figma Prototype
+
+[View the Figma Wireframes](https://www.figma.com/design/e38uUn0UNlZraCqMnq3BvX/mobile-app?node-id=0-1&t=qTIV7hclTmugx6B1-1)
